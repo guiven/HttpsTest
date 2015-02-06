@@ -1,0 +1,3 @@
+[2014/06/05 14:08:13 328] [INFO ] [foo.utility.Config] - [配置Log4j信息：D:\ChenJie\workspace\HttpsTest\config\log4j.xml]
+[2014/06/05 14:08:13 328] [INFO ] [foo.utility.Config] - [配置默认路径信息：D:\ChenJie\workspace\HttpsTest\config\Config.properties]
+[2014/06/05 14:08:14 937] [INFO ] [foo.ProbeTimerTask] - [原状态是断开，现为连接]

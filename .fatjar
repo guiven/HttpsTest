@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon May 26 13:25:55 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=HttpsTest_fat.jar
+manifest.mergeall=true
+manifest.mainclass=foo.OnStartUpServlet
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|HttpsTest>~foo/~test/
+includes=
